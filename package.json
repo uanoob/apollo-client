@@ -9,8 +9,14 @@
   },
   "license": "MIT",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "apollo-boost": "^0.1.23",
+    "graphql": "^14.0.2"
+  },
   "devDependencies": {
+    "eslint": "^5.12.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
     "parcel-bundler": "^1.11.0"
   }
 }
